@@ -1,2 +1,2 @@
 # learning
-for all programming related learning
+for all programming related learning, especially projects
