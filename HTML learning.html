@@ -72,8 +72,27 @@ Links and images: <a>, <img>.-->
 <h2>Check us out: <a href="https://www.google.com">google.com</a></h2>
 
 <!-- next section is all about structure, the doctype, the head, the body, the title, parents and children (i.e. <ol> and <li>). Plus, commenting, which is used heavily here, elemental arrtibutes like name, value, type, href, src, alt, target, etc. After that we'll get a peak at css with the <style> tag in the head, and finish with another mini project -->
+<!-- first section is for forms <form>, also includes the action attribute (telling where to go after submission), and the method attribute (how the data is processed) -->
+<form action="post" method=""></form>
 
+<!-- then there's the <input> tag. With the type attribute, it will specify what field to provide (text, radial, submit, etc)-->
+<input type="text"></input>
+
+<!-- more input types -->
+<p>here are some <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input#input_types" target="_blank">more input types</a> 
+
+<!-- form exercise to familiarize with <form> and <input>. Submit goes nowhere yet -->
+	<p>Search the web using Google</p>
+   <form action="" method="">
+     <input type="text"></input><br>
+     <input type="submit" value="Google Search"></input>
+     </form>
 </body>
 
-
+<!-- a quick google showed me that I don't need closing tags for <input>, here is the above, rewritten without closing tags -->
+<p>Search the web using Google</p>
+	<form action="" method="">
+		<input type="text" /><br>
+		<input type="submit" value="Google Search" />
+	</form>
 </html>
