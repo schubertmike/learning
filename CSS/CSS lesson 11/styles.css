@@ -1,0 +1,8 @@
+/* learning shorthand versions of some of the properties like border and font */
+h1 {
+border: 10px dotted pink;
+}
+
+p {
+font: 800 20px arial, sans-serif;
+}
