@@ -1,0 +1,6 @@
+/* CSS font families and backups, and properties like size and weight */
+p {
+  font-family: Helvetica, sans-serif;
+  font-size: 50px;
+  font-weight: bold;
+}
