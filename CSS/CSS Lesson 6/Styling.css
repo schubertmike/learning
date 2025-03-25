@@ -1,0 +1,8 @@
+/* learning about measurements, width/height, absolute and relative units */
+#absolute {
+  width: 100px;
+}
+
+#relative {
+  width: 50%;
+}
