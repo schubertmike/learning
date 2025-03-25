@@ -1,0 +1,12 @@
+/* learning about CSS properties, starting with color */
+#first-color {
+  color: green;
+}
+
+#second-color {
+  color: #0000FF;
+}
+
+#third-color {
+  color: rgb(127, 0, 255);
+}
