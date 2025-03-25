@@ -1,0 +1,13 @@
+#outer {
+  width: 500px;
+  height: 500px;
+  background-color:green;
+}
+
+#inner {
+  width: 400px;
+  height: 400px;
+  background-image: url("https://c402277.ssl.cf1.rackcdn.com/photos/20852/images/magazine_medium/axolotl_WWsummer2021.jpg?1618758847");
+  background-size: contain;
+  background-repeat: no-repeat;
+}
