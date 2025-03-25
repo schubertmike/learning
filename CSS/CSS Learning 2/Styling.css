@@ -1,3 +1,4 @@
+/* learning basic selectors: type, class and ID, plus specificity like div.line or p#roses */
 div {
   border: 1px solid;
 text-align: center;
