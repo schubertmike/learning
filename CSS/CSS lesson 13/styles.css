@@ -7,6 +7,8 @@ A margin box of empty space that surrounds the whole element.
 
 */
 
+/* this CSS illustrates the box model when you right click and inspect the div element */
+
 div {
 width:100px;
 height:100px;
