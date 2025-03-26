@@ -1,0 +1,19 @@
+/* going over the box model 
+
+A content box for things like text and images.
+A padding box of space around the content.
+A border box that goes around the padding.
+A margin box of empty space that surrounds the whole element.
+
+*/
+
+/* this CSS will illustrate the box model when inspected */
+
+div {
+width:100px;
+height:100px;
+background-color:green;
+padding: 50px;
+border: 50px solid blue;
+margin: 50px;
+}
