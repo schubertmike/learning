@@ -6,7 +6,7 @@
 const luckyNumber = 7;
 let guess = Math.floor(Math.random() * 10) + 1;
 
-while (guess != 7) {//if guess isn't 7, run the loop
+while (guess !== luckyNumber) {//if guess isn't 7, run the loop
   console.log("Nope, it isn't", guess);//print that it isn't the number from the let variable
   guess = Math.floor(Math.random() * 10) + 1;//set the variable again, or it will just print the let variable infinitely
 }
