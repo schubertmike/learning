@@ -24,7 +24,7 @@ if (answerNumber === 1){ //could use a loop but I'm not at that point in the cou
 } else if (answerNumber === 7) {
     answer = 'my mom said no';
 } else if (answerNumber === 8) {
-    answer = 'yeah not looking good';  
+    answer = 'Do you want me to be honest?';  
 } else if (answerNumber === 9) {
     answer = 'nah that is not happening';
 } else {
