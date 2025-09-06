@@ -56,7 +56,7 @@ elif q3 == 1:
 else:
   print('Wrong input')
 #print scores
-print(Gryffindor)
-print(Ravenclaw)
-print(Hufflepuff)
-print(Slytherin)
+print('Gryffindor: ', Gryffindor)
+print('Ravenclaw: ', Ravenclaw)
+print('Hufflepuff: ', Hufflepuff)
+print('Slytherin: ', Slytherin)
