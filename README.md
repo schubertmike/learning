@@ -1,7 +1,7 @@
 # learning
 For all programming related learning, especially projects
 
-Starting with HTML. From there, I move into CSS. Then I tackle my first programming language (Javascript).
+Starting with HTML. From there, I move into CSS. Then I tackle a bit of Javascript, and move to python (so I can start data science and hardware programming), I will move onto C++ for low level knowledge.
 
 Each language, other than HTML, will be a branch of the main repository.
 
