@@ -3,7 +3,6 @@
 code inside the function must be indented, just like with if statements and while loops.
 once we are done, we can call the function. e.g. move_right()'''
 import random
-random_number = random.randint(1,8)
 
 def fortune():
   random_number = random.randint(1,8)
